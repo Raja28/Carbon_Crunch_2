@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+h1, h2, h3, .display-font {
+  font-family: 'Clash Display', sans-serif;
+  font-weight: 600; 
+}
+
+body {
+  font-family: 'Manrope', sans-serif;
+}
