@@ -1,5 +1,5 @@
 import Ferhat_Artist from "../assets/Ferhat_Deniz.png"
-import Sebastian_Artist from "../assets/Sebastian_Artist.png"
+import Sebastian_Artist from "../assets/sebastian_Artist.png"
 import Javier_Artist from "../assets/Javier_Artist.png"
 import Erick_Artist from "../assets/Erick_Artist.png"
 import Button from "../assets/components/Button";
